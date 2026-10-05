@@ -1,0 +1,7 @@
+definition_version: 2
+entities:
+  streamlit_app:
+    type: streamlit
+    identifier: SUPPLYSHIELD_APP
+    query_warehouse: COMPUTE_WH
+    main_file: streamlit_app.py
